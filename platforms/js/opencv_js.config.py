@@ -2,7 +2,7 @@
 
 core = {
     '': [
-       'rotate'
+       'addWeighted', 'rotate'
     ],
     'Algorithm': [],
 }
