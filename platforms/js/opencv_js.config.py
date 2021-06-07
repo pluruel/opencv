@@ -8,7 +8,7 @@ core = {
 }
 
 imgproc = {
-    '': ['ellipse','rectangle', 'fillPoly', 'polylines', 'getRotationMatrix2D']
+    '': ['ellipse','rectangle', 'fillPoly', 'polylines', 'getRotationMatrix2D', 'warpAffine']
 }
 
 
