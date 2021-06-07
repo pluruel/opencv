@@ -2,13 +2,13 @@
 
 core = {
     '': [
-       'addWeighted', 'rotate'
+       'addWeighted'
     ],
     'Algorithm': [],
 }
 
 imgproc = {
-    '': ['ellipse','rectangle', 'fillPoly', 'polylines']
+    '': ['ellipse','rectangle', 'fillPoly', 'polylines', 'getRotationMatrix2D']
 }
 
 
