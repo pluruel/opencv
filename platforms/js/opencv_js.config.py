@@ -2,7 +2,7 @@
 
 core = {
     '': [
-       'addWeighted', 'bitwise_or'
+       'addWeighted', 'add'
     ],
     'Algorithm': [],
 }
