@@ -2,7 +2,7 @@
 
 core = {
     '': [
-       'addWeighted', 'add'
+       'addWeighted', 'merge'
     ],
     'Algorithm': [],
 }
