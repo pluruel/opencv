@@ -116,4 +116,4 @@ imgproc = {
 # white_list = makeWhiteList([core, imgproc, objdetect, video, dnn, features2d, photo, aruco, calib3d])
 
 
-white_list = makeWhiteList([core, imgproc])
+white_list = makeWhiteList([imgproc])
